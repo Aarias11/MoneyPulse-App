@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&display=swap');
+
+
+.logo {
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Chorasmian&display=swap');
+
+nav {
+    font-family: 'Noto Sans Chorasmian', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.home-header {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+.table-data {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
